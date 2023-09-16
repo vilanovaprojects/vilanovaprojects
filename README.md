@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Mainframe projects**
 
-- 📫 How to reach me **mcvmoises@gmail.com**
+- 📫 How to contact me **mcvmoises@gmail.com**
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
