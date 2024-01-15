@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Moisés</h1>
 <h3 align="center">A passionate cobol and C# developer from Spain</h3>
 
-- 🔭 I’m currently working on **Cobol on mainframe. OS390**
+- 🔭 I’m currently working on **Cobol on mainframe (OS390 and Z/OS). Visual COBOL for Visual Studio **
 
-- 🌱 I’m currently learning **CICS & DB2**
+- 🌱 I’m currently learning **Visual Cobol and ASP.NET projects**
 
 - 👯 I’m looking to collaborate on **Mainframe projects**
 
-- 📫 How to contact me **mcvmoises@gmail.com**
+- 📫 How to contact me **mcvmoises@gmail.com** / **correo@moisescampaña.es**
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
